@@ -1,0 +1,10 @@
+Visual Studio go to definition is not working: 
+
+1. close your solution.
+2. delete hidden <name of the solution>.sou file in folder where your solution's <name of the solution>.sln file exists.
+3. open your solution.
+4. rebuild your solution.
+
+
+Unity Not connect to Visual Studio:
+1. Unity Preferences -> External Tools -> External Script Editor 
