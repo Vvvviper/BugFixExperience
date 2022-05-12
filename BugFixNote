@@ -8,3 +8,9 @@ Visual Studio go to definition is not working:
 
 Unity Not connect to Visual Studio:
 1. Unity Preferences -> External Tools -> External Script Editor 
+
+
+
+UE4:
+small size image blur:
+1. rightclick on yur texture -> sprite actions (roughtly 5th from the top) -> apply Paper2D Texture settings
