@@ -14,3 +14,12 @@ Unity Not connect to Visual Studio:
 UE4:
 small size image blur:
 1. rightclick on yur texture -> sprite actions (roughtly 5th from the top) -> apply Paper2D Texture settings
+
+
+Python:
+最新下载的python在cmd找不到：
+1.Go to system properties -> Advance ( or type "system env" in start menu.)
+2.Click environment variables
+3.Edit the 'PATH' variable
+4.Add 2 new paths 'C:\Python27' and 'C:\Python27\scripts'
+5.Run cmd again and type python.
